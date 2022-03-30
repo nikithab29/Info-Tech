@@ -1,0 +1,23 @@
+The project will be creating a money saver app using the MIT App Inventor. 
+The purpose of this app is to help users save money monthly just like a money box  but an online version.
+Whilst banks provide you with a savings account to save money, you could be tempted to take money out of those accounts anytime. 
+Likewise, having a physical money box  could also be tempting to take money out regardless of having a lid to open it or not. 
+This app should allow individuals to save money by locking the account after they have put money in, restricting access for the user until a set date. 
+
+
+I recently started working and getting my own payment, and I always wanted to find a way to save money without myself taking from my savings. 
+When my parents suggested starting a savings account, I was not too fond of it as I knew that I might end up taking money from it at one point. 
+As I child I had my own piggy bank as well, but instead of saving money it was more like an object to store money in like a bigger version of a purse because I kept taking money from it. 
+One day, I was scrolling through social media, I came across a video where a girl saves 5000 dollars in a month by adding a certain amount of money each day and putting it in a box. 
+I thought this was cool, but instead of making a physical box it would be cool if we had an app to store our money in and which cannot access for a certain amount of time just like we have screen time on our phones.
+
+
+The app opens to a spin wheel with numbers labeled from 1 to 100. The user will spin the wheel and whichever number the wheel lands on is the amount of money they have to put into their savings that day. 
+Once the wheel has landed on one of the numbers, that number will disappear the next day so that the user won’t have to put the same amount of money in again or multiple times in a row. 
+Once all numbers have been drawn, the user gets to unlock the account and have it open for 2 days. In the 2 day timeframe, the user won't be able to add any money to their account but instead can withdraw money if they wish. 
+Another way the user can unlock their account would be by setting a goal, such as a trip to Bali, and setting a timeframe to which day they want to save for that trip. It’s just like creating a music playlist. 
+
+The software that I will be using to develop my money saver app is the MIT App Inventor. I will be using canva to create some aesthetic backgrounds as well to make it more attractive to users. 
+
+
+If the app is successful, then users would be able to save a huge amount of money within a short-term. It will prevent their habit of taking money from savings accounts or personal money boxes and allow them to save more money and prioritize their financial responsibilities more efficiently. The impact of this development would be banks having less customers taking a savings account. 
